@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Extensive experience with conducting colourist training courses throughout the world. Blake is part of the International Colorist Academy. These course may be carried out in either English, French, Spanish, German or even Dutch.'
-datePublished: '2016-04-24T10:10:09.279Z'
-dateModified: '2016-04-24T10:10:06.269Z'
+datePublished: '2016-04-24T14:41:42.369Z'
+dateModified: '2016-04-24T14:41:31.695Z'
 title: Instructor
 author: []
 sourcePath: _posts/2016-04-24-instructor.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: instructor/index.html
 _type: Article
 
@@ -27,3 +27,19 @@ _type: Article
 # Instructor
 
 Extensive experience with conducting colourist training courses throughout the world. Blake is part of the International Colorist Academy. These course may be carried out in either English, French, Spanish, German or even Dutch.
+
+He is experienced with teaching operational course for the following systems.
+
+**Pandora Pogle**
+
+**daVinci Renaissance 888**
+
+**daVinci Renaissance 888 DUI**
+
+**daVinci 2K**
+
+**daVinci 2K Plus**
+
+**daVinci Resolve**
+
+**daVinci Revival digital restoration system**
