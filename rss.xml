@@ -4,7 +4,7 @@
         <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>https://thegrid.ai/blake-jones/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 10:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 10:09:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blake-jones/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/blake-jones/about-blake/index.html</link>
             <guid isPermaLink="false">b432aa95-9f75-4bb9-9bef-9b9053d43dc6</guid>
             <pubDate>Sun, 24 Apr 2016 09:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instructor]]></title>
+            <description><![CDATA[<article><h1>Instructor</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/blake-jones/instructor/index.html</link>
+            <guid isPermaLink="false">25bac5c1-89da-4ada-8a60-3d27f2f48fd8</guid>
+            <pubDate>Sun, 24 Apr 2016 10:08:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Consultant]]></title>
