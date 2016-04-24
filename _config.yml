@@ -1,0 +1,28 @@
+name: Blake Jones
+favicon: null
+layout_spectrum: 0.459480797406286
+typography_spectrum: 0.3768230329733342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.11520826420746744
+  lightness: 0.22921797749586403
+  saturation: 0.8237466369755566
+  rhythmicContrast: 0.19852294400334358
+purpose: []
