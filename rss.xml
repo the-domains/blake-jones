@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Blake Jones - Colorist - Instructor - Consultant]]></title>
-        <description><![CDATA[Blake Jones - Colorist - Instructor - Consultant]]></description>
+        <title><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></title>
+        <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>https://thegrid.ai/blake-jones/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 09:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 10:03:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blake-jones/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/blake-jones/about-blake/index.html</link>
             <guid isPermaLink="false">b432aa95-9f75-4bb9-9bef-9b9053d43dc6</guid>
             <pubDate>Sun, 24 Apr 2016 09:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consultant]]></title>
+            <description><![CDATA[<article><h1>Consultant</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd1be591-ec3e-4fd6-8393-df45299c4cf6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blake-jones/consultant/index.html</link>
+            <guid isPermaLink="false">3202190b-c034-4889-9465-653dd73d5a13</guid>
+            <pubDate>Sun, 24 Apr 2016 10:02:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colourist]]></title>
