@@ -4,21 +4,21 @@
         <description><![CDATA[Blake Jones - Colorist - Instructor - Consultant]]></description>
         <link>https://thegrid.ai/blake-jones/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 09:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 09:57:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blake-jones/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Blake]]></title>
+            <description><![CDATA[<article><h1>About Blake</h1><p>Over twenty five years of experience as a Colourist, Consultant, Instructor and Writer throughout the world. Blake grew up within the film industry and experienced all aspects of film making and loves to share his expertise with others. In addition to English, Blake also speaks French, Spanish, German and Dutch.</p></article>]]></description>
+            <link>https://thegrid.ai/blake-jones/about-blake/index.html</link>
+            <guid isPermaLink="false">b432aa95-9f75-4bb9-9bef-9b9053d43dc6</guid>
+            <pubDate>Sun, 24 Apr 2016 09:57:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colourist]]></title>
             <description><![CDATA[<article><h1>Colourist</h1><p></p></article>]]></description>
             <link>https://thegrid.ai/blake-jones/colourist/index.html</link>
             <guid isPermaLink="false">252ffebf-795c-4125-90fc-b1b07e422276</guid>
             <pubDate>Sun, 24 Apr 2016 09:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Blake]]></title>
-            <description><![CDATA[<article><h1>About Blake</h1><p>Over twenty five years of experience as a Colourist, Consultant, Instructor and Writer throughout the world. Blake grew up within the film industry and experienced all aspects of film making and loves to share his expertise with others. In addition to English, Blake also speaks French, Spanish, German and Dutch.</p></article>]]></description>
-            <link>https://thegrid.ai/blake-jones/about-blake/index.html</link>
-            <guid isPermaLink="false">b432aa95-9f75-4bb9-9bef-9b9053d43dc6</guid>
-            <pubDate>Sun, 24 Apr 2016 09:45:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
