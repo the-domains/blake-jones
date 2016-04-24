@@ -1,6 +1,6 @@
 name: Blake Jones - Colourist - Instructor - Consultant
 favicon: null
-layout_spectrum: 0.459480797406286
+layout_spectrum: 0.99249
 typography_spectrum: 0.3768230329733342
 title: Blake Jones - Colourist - Instructor - Consultant
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.11520826420746744
   lightness: 0.22921797749586403
   saturation: 0.8237466369755566
-  rhythmicContrast: 0.19852294400334358
+  rhythmicContrast: 0.5
 purpose: []
