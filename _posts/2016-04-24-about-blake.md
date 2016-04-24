@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Over twenty five years of experience as a Colourist, Consultant, Instructor and Writer throughout the world. Blake grew up within the film industry and experienced all aspects of film making and loves to share his expertise with others. In addition to English, Blake also speaks French, Spanish, German and Dutch.'
-datePublished: '2016-04-24T09:57:24.061Z'
-dateModified: '2016-04-24T09:56:18.289Z'
+datePublished: '2016-04-24T15:06:30.878Z'
+dateModified: '2016-04-24T14:56:44.970Z'
 title: About Blake
 author: []
+sourcePath: _posts/2016-04-24-about-blake.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-24-about-blake.md
-published: true
 starred: true
 url: about-blake/index.html
 _type: Article
