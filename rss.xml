@@ -4,7 +4,7 @@
         <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>http://blake-jones.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 10:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 15:02:21 GMT</lastBuildDate>
         <atom:link href="http://blake-jones.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake Jones c.s.i.]]></title>
@@ -19,6 +19,13 @@
             <link>http://blake-jones.com/instructor/index.html</link>
             <guid isPermaLink="false">25bac5c1-89da-4ada-8a60-3d27f2f48fd8</guid>
             <pubDate>Sun, 24 Apr 2016 14:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitter]]></title>
+            <description><![CDATA[<article><h1>Twitter</h1><p>You can see the latest updates about what Blake is up to via Twitter at @blakej_jones</p></article>]]></description>
+            <link>http://blake-jones.com/twitter/index.html</link>
+            <guid isPermaLink="false">6204e8d5-1920-44e4-877a-9706165cfe4c</guid>
+            <pubDate>Tue, 26 Apr 2016 15:01:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blake Will Be Presenting At The Arri Archival Workshop]]></title>
