@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Extensive experience with conducting colourist training courses throughout the world. Blake is part of the International Colorist Academy. These course may be carried out in either English, French, Spanish, German or even Dutch.'
-datePublished: '2016-04-24T14:41:42.369Z'
-dateModified: '2016-04-24T14:41:31.695Z'
+datePublished: '2016-04-29T09:02:55.327Z'
+dateModified: '2016-04-29T08:18:18.218Z'
 title: Instructor
 author: []
 sourcePath: _posts/2016-04-24-instructor.md
@@ -17,14 +17,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: instructor/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea263dcd-e6da-4c6c-8c3a-d1d98af1aa46.jpg)
-
 # Instructor
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81ae2cef-007e-4137-a0b5-142addbe7c36.jpg)
 
 Extensive experience with conducting colourist training courses throughout the world. Blake is part of the International Colorist Academy. These course may be carried out in either English, French, Spanish, German or even Dutch.
 
