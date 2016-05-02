@@ -4,7 +4,7 @@
         <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>http://blake-jones.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 14:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 14:29:00 GMT</lastBuildDate>
         <atom:link href="http://blake-jones.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake Jones c.s.i.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blake-jones.com/about-blake/index.html</link>
             <guid isPermaLink="false">b432aa95-9f75-4bb9-9bef-9b9053d43dc6</guid>
             <pubDate>Mon, 25 Apr 2016 16:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resolve Secondary Color Correction Tutorial presented by Blake Jones]]></title>
+            <description><![CDATA[<article><h1>Resolve Secondary Color Correction Tutorial presented by Blake Jones</h1><p>Blake Jones showing Secondary Color Correction on DaVinci Resolve.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa639a30ee4a0d930640cfab04b5a82477ba7f33.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Z6egcIcE1Dg</link>
+            <guid isPermaLink="false">049d26e2-a118-465f-8055-1fe5d8c93bed</guid>
+            <pubDate>Mon, 02 May 2016 14:28:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Links]]></title>
@@ -68,13 +75,6 @@
             <link>http://blake-jones.com/writer/index.html</link>
             <guid isPermaLink="false">1c4c7a2b-ed72-4f6b-a78b-bd3e09119ea1</guid>
             <pubDate>Sun, 24 Apr 2016 17:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colourist]]></title>
-            <description><![CDATA[<article><h1>Colourist</h1><p></p></article>]]></description>
-            <link>http://blake-jones.com/colourist/index.html</link>
-            <guid isPermaLink="false">252ffebf-795c-4125-90fc-b1b07e422276</guid>
-            <pubDate>Sun, 24 Apr 2016 09:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
