@@ -4,7 +4,7 @@
         <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>http://blake-jones.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 14:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 20:47:12 GMT</lastBuildDate>
         <atom:link href="http://blake-jones.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake Jones c.s.i.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blake-jones.com/about-blake/index.html</link>
             <guid isPermaLink="false">b432aa95-9f75-4bb9-9bef-9b9053d43dc6</guid>
             <pubDate>Mon, 25 Apr 2016 16:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writer]]></title>
+            <description><![CDATA[<article><h1>Writer</h1><p>Blake writes operational manuals and white papers for post production equipment manufacturers. He is also the author of three industry related books. My latest eBook is called Color Grading 101 and is available via iTunes.</p></article>]]></description>
+            <link>http://blake-jones.com/writer/index.html</link>
+            <guid isPermaLink="false">1c4c7a2b-ed72-4f6b-a78b-bd3e09119ea1</guid>
+            <pubDate>Sun, 05 Jun 2016 20:47:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linkedin]]></title>
