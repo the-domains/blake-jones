@@ -5,18 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T13:52:14.663Z'
-dateModified: '2016-04-29T08:14:17.287Z'
+datePublished: '2016-06-05T20:48:49.242Z'
+dateModified: '2016-06-05T20:48:48.709Z'
 title: Consultant
 author: []
 sourcePath: _posts/2016-04-24-consultant.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: consultant/index.html
 _type: Article
@@ -26,3 +21,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd1be591-ec3e-4fd6-8393-df45299c4cf6.jpg)
 
 Whether it be setting up a new suite within your facility or even advice for an upcoming project, Blake has the extensive experience to make it happen.
+
+[For more information][0]
+
+[0]: mailto: blake@blake-jones.com
