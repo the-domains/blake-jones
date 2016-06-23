@@ -4,7 +4,7 @@
         <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>http://blake-jones.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 14:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 14:13:48 GMT</lastBuildDate>
         <atom:link href="http://blake-jones.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake Jones c.s.i.]]></title>
@@ -19,6 +19,13 @@
             <link>http://blake-jones.com/colourist/index.html</link>
             <guid isPermaLink="false">252ffebf-795c-4125-90fc-b1b07e422276</guid>
             <pubDate>Thu, 23 Jun 2016 08:58:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Writer]]></title>
+            <description><![CDATA[<article><h1>Writer</h1><p>Blake writes operational manuals and white papers for post production equipment manufacturers. He is also the author of three industry related books. My latest eBook is called Color Grading 101 and is available via iTunes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f745712c-d4fb-4abf-8c98-12ec77151e0c.jpg"></article>]]></description>
+            <link>http://blake-jones.com/writer/index.html</link>
+            <guid isPermaLink="false">1c4c7a2b-ed72-4f6b-a78b-bd3e09119ea1</guid>
+            <pubDate>Thu, 23 Jun 2016 14:13:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[International Colorist Academy]]></title>
@@ -40,13 +47,6 @@
             <link>http://blake-jones.com/consultant/index.html</link>
             <guid isPermaLink="false">3202190b-c034-4889-9465-653dd73d5a13</guid>
             <pubDate>Sun, 05 Jun 2016 20:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Writer]]></title>
-            <description><![CDATA[<article><h1>Writer</h1><p>Blake writes operational manuals and white papers for post production equipment manufacturers. He is also the author of three industry related books. My latest eBook is called Color Grading 101 and is available via iTunes.</p></article>]]></description>
-            <link>http://blake-jones.com/writer/index.html</link>
-            <guid isPermaLink="false">1c4c7a2b-ed72-4f6b-a78b-bd3e09119ea1</guid>
-            <pubDate>Sun, 05 Jun 2016 20:47:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Linkedin]]></title>
