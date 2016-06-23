@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-05T20:48:49.242Z'
-dateModified: '2016-06-05T20:48:48.709Z'
+datePublished: '2016-06-23T14:15:21.132Z'
+dateModified: '2016-06-23T14:15:18.406Z'
 title: Consultant
 author: []
 sourcePath: _posts/2016-04-24-consultant.md
