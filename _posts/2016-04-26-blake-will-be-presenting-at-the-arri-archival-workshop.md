@@ -4,26 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Blake will be presenting Resolve, Revival, Fusion and the new Blackmagic Design Cintel 4K Film Scanner at the Arri Archival Workshop in June in Munich.'
-datePublished: '2016-04-26T10:26:03.566Z'
-dateModified: '2016-04-26T10:25:37.942Z'
+description: ''
+datePublished: '2016-06-23T08:53:51.879Z'
+dateModified: '2016-06-23T08:48:38.670Z'
 title: Blake Will Be Presenting At The Arri Archival Workshop
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-04-26-blake-will-be-presenting-at-the-arri-archival-workshop.md
-published: true
+authors: []
+publisher: null
+starred: false
 url: blake-will-be-presenting-at-the-arri-archival-workshop/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a999d1b-abff-460f-a0fa-6fa9ebc6df75.png)
+# Blake Recently Presented at The Arri Archival Workshop
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45b4e85f-0a40-482d-a977-b7d2f105d89c.jpg)
 
-# Blake Will Be Presenting At The Arri Archival Workshop
-
-Blake will be presenting Resolve, Revival, Fusion and the new Blackmagic Design Cintel 4K Film Scanner at the Arri Archival Workshop in June in Munich.
+"We had a great turn out and it was wonderful to see everyone!" On the first day Blake gave his presentation at the Arri Kino.
