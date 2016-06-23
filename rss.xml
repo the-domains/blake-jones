@@ -4,7 +4,7 @@
         <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>http://blake-jones.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 20:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 08:53:53 GMT</lastBuildDate>
         <atom:link href="http://blake-jones.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake Jones c.s.i.]]></title>
@@ -12,6 +12,13 @@
             <link>http://blake-jones.com/about-blake/index.html</link>
             <guid isPermaLink="false">b432aa95-9f75-4bb9-9bef-9b9053d43dc6</guid>
             <pubDate>Mon, 25 Apr 2016 16:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blake Recently Presented at The Arri Archival Workshop]]></title>
+            <description><![CDATA[<article><h1>Blake Recently Presented at The Arri Archival Workshop</h1><p>"We had a great turn out and it was wonderful to see everyone!" On the first day Blake gave his presentation at the Arri Kino. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45b4e85f-0a40-482d-a977-b7d2f105d89c.jpg"></article>]]></description>
+            <link>http://blake-jones.com/blake-will-be-presenting-at-the-arri-archival-workshop/index.html</link>
+            <guid isPermaLink="false">11a09975-35df-43d9-ae75-a227ec1d27aa</guid>
+            <pubDate>Thu, 23 Jun 2016 08:53:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Consultant]]></title>
@@ -54,13 +61,6 @@
             <link>http://blake-jones.com/instructor/index.html</link>
             <guid isPermaLink="false">25bac5c1-89da-4ada-8a60-3d27f2f48fd8</guid>
             <pubDate>Fri, 29 Apr 2016 09:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blake Will Be Presenting At The Arri Archival Workshop]]></title>
-            <description><![CDATA[<article><h1>Blake Will Be Presenting At The Arri Archival Workshop</h1><p>Blake will be presenting Resolve, Revival, Fusion and the new Blackmagic Design Cintel 4K Film Scanner at the Arri Archival Workshop in June in Munich.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a999d1b-abff-460f-a0fa-6fa9ebc6df75.png"></article>]]></description>
-            <link>http://blake-jones.com/blake-will-be-presenting-at-the-arri-archival-workshop/index.html</link>
-            <guid isPermaLink="false">11a09975-35df-43d9-ae75-a227ec1d27aa</guid>
-            <pubDate>Tue, 26 Apr 2016 10:26:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colorist Society International]]></title>
