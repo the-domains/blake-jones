@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T13:55:30.864Z'
-dateModified: '2016-05-06T13:55:00.518Z'
+datePublished: '2016-06-23T14:13:17.286Z'
+dateModified: '2016-05-06T13:55:34.450Z'
 title: International Colorist Academy
 author: []
 sourcePath: _posts/2016-04-27-international-colorist-academy.md
