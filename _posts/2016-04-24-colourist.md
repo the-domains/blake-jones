@@ -9,8 +9,8 @@ description: >-
   Space Odyssey” and “Poltergeist” to name only a few of the numerous titles he
   has worked on. Recently Blake was the digital intermediate colourist for
   Federico Zampaglione’s film “Shadow”.
-datePublished: '2016-06-23T08:58:59.135Z'
-dateModified: '2016-06-23T08:58:46.693Z'
+datePublished: '2016-06-23T14:14:47.279Z'
+dateModified: '2016-06-23T09:00:27.640Z'
 title: Colourist
 author: []
 sourcePath: _posts/2016-04-24-colourist.md
