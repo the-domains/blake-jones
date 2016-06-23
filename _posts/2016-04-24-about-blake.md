@@ -5,13 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Over twenty five years of experience as a Colourist, Consultant, Instructor
-  and Writer throughout the world. Blake grew up within the film industry and
-  experienced all aspects of film making and loves to share his expertise with
-  others. In addition to English, Blake also speaks French, Spanish, German and
-  Dutch.
-datePublished: '2016-06-23T08:59:52.246Z'
-dateModified: '2016-06-23T08:59:39.992Z'
+  Blake´s eBook, Color Grading 101 is exactly what you need to get started doing
+  color grading. It gives you step by step instructions on how to get going.
+datePublished: '2016-06-23T14:17:37.650Z'
+dateModified: '2016-06-23T14:14:31.772Z'
 title: About Blake Jones c.s.i.
 author: []
 sourcePath: _posts/2016-04-24-about-blake.md
