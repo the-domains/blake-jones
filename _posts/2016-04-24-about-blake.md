@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Blake´s eBook, Color Grading 101 is exactly what you need to get started doing
   color grading. It gives you step by step instructions on how to get going.
-datePublished: '2016-06-23T18:54:43.759Z'
-dateModified: '2016-06-23T18:54:28.795Z'
+datePublished: '2016-06-24T08:30:57.942Z'
+dateModified: '2016-06-24T08:30:37.588Z'
 title: About Blake Jones c.s.i.
 author: []
 sourcePath: _posts/2016-04-24-about-blake.md
