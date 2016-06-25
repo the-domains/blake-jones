@@ -4,7 +4,7 @@
         <description><![CDATA[Blake Jones - Colourist - Instructor - Consultant]]></description>
         <link>http://blake-jones.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 14:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 14:31:13 GMT</lastBuildDate>
         <atom:link href="http://blake-jones.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake Jones C.S.I.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/26dfa4f5-c27c-4169-aaa8-59682c971bc1.png</link>
             <guid isPermaLink="false">5215b8a9-cc83-436b-b589-a201db2d4c52</guid>
             <pubDate>Sat, 25 Jun 2016 14:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Consultant]]></title>
+            <description><![CDATA[<article><h1>Consultant</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd1be591-ec3e-4fd6-8393-df45299c4cf6.jpg"></article>]]></description>
+            <link>http://blake-jones.com/consultant/index.html</link>
+            <guid isPermaLink="false">3202190b-c034-4889-9465-653dd73d5a13</guid>
+            <pubDate>Thu, 23 Jun 2016 14:15:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blake Recently Presented at The Arri Archival Workshop]]></title>
