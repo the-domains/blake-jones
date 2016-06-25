@@ -5,17 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-23T14:13:17.286Z'
-dateModified: '2016-05-06T13:55:34.450Z'
+datePublished: '2016-06-25T10:45:11.010Z'
+dateModified: '2016-06-23T14:13:22.911Z'
 title: International Colorist Academy
 author: []
 sourcePath: _posts/2016-04-27-international-colorist-academy.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: international-colorist-academy/index.html
 _type: Article
