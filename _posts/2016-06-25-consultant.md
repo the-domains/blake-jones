@@ -1,25 +1,28 @@
 ---
-description: ' Whether it be setting up a new suite within your facility or even advice for an upcoming project, Blake has the extensive experience to make it happen.'
-dateModified: '2016-06-25T14:43:17.392Z'
-datePublished: '2016-06-25T14:43:23.298Z'
-title: Consultant
+description: >-
+  Over twenty five years of experience as a Colourist, Consultant, Instructor
+  and Writer throughout the world. Blake grew up within the film industry and
+  experienced all aspects of film making and loves to share his expertise with
+  others. In addition to English, Blake also speaks French, Spanish, German and
+  Dutch.
+dateModified: '2016-06-26T20:50:04.013Z'
+datePublished: '2016-06-26T20:51:05.450Z'
+title: About Blake Jones C.S.I.
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/75c035ab-427f-4b32-b324-c3f1fa9ef5f8.jpg
-starred: false
 sourcePath: _posts/2016-06-25-consultant.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75c035ab-427f-4b32-b324-c3f1fa9ef5f8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c1edf6-c4e1-4604-8cdf-cd9f5fef197a.png)
 
-# Consultant
+# **About Blake Jones C.S.I.**
 
-Whether it be setting up a new suite within your facility or even advice for an upcoming project, Blake has the extensive experience to make it happen.
+Over twenty five years of experience as a Colourist, Consultant, Instructor and Writer throughout the world. Blake grew up within the film industry and experienced all aspects of film making and loves to share his expertise with others. In addition to English, Blake also speaks French, Spanish, German and Dutch.
 
-[For more information][0]
-
-[0]: mailto:%20blake@blake-jones.com
+**Blake´s eBook, Color Grading 101 is exactly what you need to get started doing color grading. It gives you step by step instructions on how to get going.**
