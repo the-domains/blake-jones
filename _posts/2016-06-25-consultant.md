@@ -5,9 +5,9 @@ description: >-
   experienced all aspects of film making and loves to share his expertise with
   others. In addition to English, Blake also speaks French, Spanish, German and
   Dutch.
-dateModified: '2016-06-27T10:10:34.786Z'
-datePublished: '2016-06-27T10:10:44.780Z'
-title: About Blake Jones
+dateModified: '2016-06-27T10:12:29.548Z'
+datePublished: '2016-06-27T10:12:39.467Z'
+title: Blake Jones
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/75c035ab-427f-4b32-b324-c3f1fa9ef5f8.jpg
@@ -21,7 +21,7 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c6e4ffa-e83f-4613-8077-f84c44398278.jpg)
 
-# **About Blake Jones**
+# **Blake Jones**
 
 Over twenty five years of experience as a Colourist, Consultant, Instructor and Writer throughout the world. Blake grew up within the film industry and experienced all aspects of film making and loves to share his expertise with others. In addition to English, Blake also speaks French, Spanish, German and Dutch.
 
