@@ -5,8 +5,8 @@ description: >-
   experienced all aspects of film making and loves to share his expertise with
   others. In addition to English, Blake also speaks French, Spanish, German and
   Dutch.
-dateModified: '2016-06-27T10:13:54.770Z'
-datePublished: '2016-06-27T10:13:55.219Z'
+dateModified: '2016-06-27T10:14:11.681Z'
+datePublished: '2016-06-27T10:14:14.968Z'
 title: Blake Jones
 author: []
 isBasedOnUrl: >-
