@@ -5,14 +5,14 @@ description: >-
   experienced all aspects of film making and loves to share his expertise with
   others. In addition to English, Blake also speaks French, Spanish, German and
   Dutch.
-dateModified: '2016-06-28T10:48:04.750Z'
-datePublished: '2016-06-28T10:48:10.134Z'
+dateModified: '2016-06-28T10:50:47.543Z'
+datePublished: '2016-06-28T10:50:48.482Z'
 title: About Blake Jones C.S.I.
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bff6e40e-ba43-4968-9b64-77d81a2d183c.png
 sourcePath: _posts/2016-06-28-about-blake-jones-csi.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
