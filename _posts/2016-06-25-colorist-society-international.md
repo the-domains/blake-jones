@@ -3,8 +3,8 @@ description: >-
   Blake is now a full member of the Colorist Society International. The Colorist
   Society International or CSI is the first organization established to further
   and honour the achievements of colourists.
-dateModified: '2016-06-27T10:00:54.478Z'
-datePublished: '2016-06-27T10:08:58.818Z'
+dateModified: '2016-06-27T21:51:07.881Z'
+datePublished: '2016-06-28T10:46:02.166Z'
 title: Colorist Society International
 author: []
 isBasedOnUrl: >-
@@ -17,7 +17,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e98e2ed4-4fca-4ee7-9616-ad6da45c5d89.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/058505d3-5919-4dbf-9871-c307320be96a.jpg)
 
 # **Colorist Society International**
 
