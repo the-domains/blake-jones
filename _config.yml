@@ -1,20 +1,4 @@
-name: Blake Jones - Colourist - Instructor - Consultant
-favicon: null
-layout_spectrum: 0.7344983301591128
 typography_spectrum: 0.89928003330715
-title: Blake Jones - Colourist - Instructor - Consultant
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#DDDCC5'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5538432616740465
   saturation: 0.6446589641273022
   rhythmicContrast: 0.2517275351565331
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7344983301591128
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Blake Jones - Colourist - Instructor - Consultant
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Blake Jones - Colourist - Instructor - Consultant
+description: Colourist - Instructor - Consultant
 purpose: []
