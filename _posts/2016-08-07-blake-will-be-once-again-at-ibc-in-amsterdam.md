@@ -7,15 +7,15 @@ keywords: []
 description: >-
   If you would like to meet up with Blake during the exhibition, you can contact
   him at this link.
-datePublished: '2016-08-07T19:08:12.138Z'
-dateModified: '2016-08-07T19:08:06.107Z'
+datePublished: '2016-08-07T19:08:57.179Z'
+dateModified: '2016-08-07T19:08:19.942Z'
 title: Blake will be once again at IBC in Amsterdam
 author: []
 via: {}
+sourcePath: _posts/2016-08-07-blake-will-be-once-again-at-ibc-in-amsterdam.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-07-blake-will-be-once-again-at-ibc-in-amsterdam.md
 url: blake-will-be-once-again-at-ibc-in-amsterdam/index.html
 _type: Article
 
