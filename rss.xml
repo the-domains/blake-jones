@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Blake Jones]]></title>
-        <description><![CDATA[Blake Jones]]></description>
+        <title><![CDATA[Blake Jones - Colorist - Consultant - Instructor - Author]]></title>
+        <description><![CDATA[Blake Jones - Colorist - Consultant - Instructor - Author]]></description>
         <link>http://blake-jones.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 19:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 13:38:18 GMT</lastBuildDate>
         <atom:link href="http://blake-jones.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Blake Jones C.S.I.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7914ae0-d22b-4c93-b369-f450a6deb529.png</link>
             <guid isPermaLink="false">d533483c-41de-4f21-b3b0-b875e276b29a</guid>
             <pubDate>Sat, 02 Jul 2016 10:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instructor]]></title>
+            <description><![CDATA[<article><h1>Instructor</h1><p>Extensive experience with conducting colourist training courses throughout the world. Blake is part of the International Colorist Academy. These course may be carried out in either English, French, Spanish, German or even Dutch.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67871bd8-cc40-488e-8a73-e2ff57a1e52f.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/67871bd8-cc40-488e-8a73-e2ff57a1e52f.jpg</link>
+            <guid isPermaLink="false">390b3e9c-d8e1-4af9-9d74-39c699eb9890</guid>
+            <pubDate>Fri, 12 Aug 2016 13:38:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blake will be once again at IBC in Amsterdam]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8bb1073-d609-4c67-96f3-df9c035194b3.jpg</link>
             <guid isPermaLink="false">703d6e08-b645-4648-937c-bdff9c4be3ea</guid>
             <pubDate>Sat, 25 Jun 2016 14:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International Colorist Academy]]></title>
-            <description><![CDATA[<article><h1>International Colorist Academy</h1><p>Blake is an instructor with the International Colorist Academy and has over 27 years of experience. He gives classes in Basic Color Grading, Resolve Operation, Revival Operation and even Film Scanner Operation. He is one of the few people who have worked with Resolve and Revival since the products were introduced.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bc5d47b-4c34-4608-825d-23cb35ef7293.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bc5d47b-4c34-4608-825d-23cb35ef7293.jpg</link>
-            <guid isPermaLink="false">60ce5403-75fa-4f11-8556-3c7cbfcc4f11</guid>
-            <pubDate>Sat, 25 Jun 2016 14:37:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
